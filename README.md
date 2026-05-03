@@ -47,7 +47,8 @@ Performed automated data cleaning using Power Query:
 - Trimmed and cleaned text fields  
 - Removed unnecessary columns  
 - Filtered irrelevant or invalid data  
-- Standardized data types (date, numeric, text)  
+- Standardized data types (date, numeric, text)
+- Rename column name
 
 ---
 
