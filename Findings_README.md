@@ -58,7 +58,6 @@ Delayed orders average **2.56 stars** while on-time orders average **4.26 stars*
 - Launch a recovery workflow for all delayed orders: **apology + voucher + re-rating request**
 - Target **~25% revenue recovery (~R$632K)** from affected customers
 - Set and enforce **SLA KPIs** with all logistics partners
-- **Timeline:** 0–30 days | **Owner:** CX / Operations
 
 ---
 
@@ -85,7 +84,6 @@ The three lowest-rated states are also the highest-delay regions, confirming a d
 - **Audit logistics partners** specifically operating in AL, MA, and SE
 - Explore **regional fulfilment hubs** or partnerships with local last-mile delivery providers
 - Set **region-specific delivery SLA targets** and review monthly
-- **Timeline:** 0–30 days | **Owner:** Logistics / Operations
 
 ---
 
@@ -105,7 +103,6 @@ Black Friday 2017 generated **+54.6% revenue vs October**, reaching **R$1.29M** 
 - Build a **formal seasonal campaign calendar** anchored to Black Friday, year-end, and mid-year sale events
 - Pre-plan **inventory and logistics capacity** ahead of peak periods to avoid post-holiday operational strain
 - Assign dedicated campaign budget with measurable uplift targets
-- **Timeline:** 30–90 days | **Owner:** Marketing / Supply Chain
 
 ---
 
@@ -130,7 +127,6 @@ Weekends consistently average only **134 orders/day vs 174 on weekdays** — a *
 - Launch **weekend-exclusive flash sales** and limited-time promotions
 - Test **push notifications and email campaigns** deployed on Friday evenings
 - A/B test weekend-specific discount strategies to measure conversion lift
-- **Timeline:** 30–60 days | **Owner:** Marketing
 
 ---
 
@@ -155,7 +151,6 @@ Orders above R$500 receive the lowest satisfaction ratings, yet this segment con
 - Introduce a **premium fulfilment tier** for orders >R$500: priority processing, dedicated support, and enhanced packaging
 - Send **proactive order status updates** for high-value shipments
 - Track satisfaction scores separately for this segment with a dedicated dashboard
-- **Timeline:** 60–90 days | **Owner:** Operations / Product
 
 ---
 
@@ -182,7 +177,6 @@ The current seller and fulfilment distribution creates a structurally inefficien
 - Develop a **seller diversification strategy** to recruit sellers in high-demand regions outside São Paulo
 - Explore **regional warehouse or fulfilment partnerships** to reduce cross-state dependency
 - Model the margin improvement achievable at various seller distribution scenarios
-- **Timeline:** 6–18 months | **Owner:** Commercial / Business Development
 
 ---
 
